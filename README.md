@@ -7,3 +7,5 @@ Dental Care is a comprehensive website designed to streamline the patient experi
 
 <strong> #Services </strong>
 ![Services](https://github.com/Sanket-825/Dentist-Website-Project/assets/123058949/fd8932db-4422-4de3-b44a-e23c8ebdacb0) <br>
+<strong> #Reviews </strong>
+![Reviews](https://github.com/Sanket-825/Dentist-Website-Project/assets/123058949/a4d62ea8-8f9f-4419-8b0f-34dc0284b1df)
